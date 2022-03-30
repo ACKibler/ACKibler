@@ -13,11 +13,11 @@
 <br />
 
 ## Languages and Tools:
-<img align="left" alt="linkedin.com" width="69px" src="https://github.com/ACKibler/ACKibler/blob/main/SQL.png?raw=true" />
-<img align="left" alt="linkedin.com" width="132px" src="https://github.com/ACKibler/ACKibler/blob/main/tableau.png?raw=true" />
-<img align="left" alt="linkedin.com" width="48px" src="https://github.com/ACKibler/ACKibler/blob/main/R.png?raw=true" />
-<img align="left" alt="linkedin.com" width="42px" src="https://github.com/ACKibler/ACKibler/blob/main/suite.png?raw=true" />
-<img align="left" alt="linkedin.com" width="40px" src="https://github.com/ACKibler/ACKibler/blob/main/github.png?raw=true" />
+<a href="#"> <img align="left" alt="linkedin.com" width="69px" src="https://github.com/ACKibler/ACKibler/blob/main/SQL.png?raw=true" /> </a>
+<a href="#"> <img align="left" alt="linkedin.com" width="132px" src="https://github.com/ACKibler/ACKibler/blob/main/tableau.png?raw=true" /> </a>
+<a href="#"> <img align="left" alt="linkedin.com" width="48px" src="https://github.com/ACKibler/ACKibler/blob/main/R.png?raw=true" /> </a>
+<a href="#"> <img align="left" alt="linkedin.com" width="42px" src="https://github.com/ACKibler/ACKibler/blob/main/suite.png?raw=true" /> </a>
+<a href="#"> <img align="left" alt="linkedin.com" width="40px" src="https://github.com/ACKibler/ACKibler/blob/main/github.png?raw=true" /> </a>
 
 <br />
 <br />
