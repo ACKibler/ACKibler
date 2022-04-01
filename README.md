@@ -18,9 +18,10 @@
 <a href="#"> <img align="left" alt="linkedin.com" width="48px" src="https://github.com/ACKibler/ACKibler/blob/main/R.png?raw=true" /> </a>
 <a href="#"> <img align="left" alt="linkedin.com" width="42px" src="https://github.com/ACKibler/ACKibler/blob/main/suite.png?raw=true" /> </a>
 <a href="#"> <img align="left" alt="linkedin.com" width="40px" src="https://github.com/ACKibler/ACKibler/blob/main/github.png?raw=true" /> </a>
+<br />
 
 ## Certificates and Awards:
-<a href="#"> <img align="left" alt="credly.com" width="55px" src="" />
+<a href="#"> <img align="left" alt="credly.com" width="64px" src="https://github.com/ACKibler/ACKibler/blob/main/Credly.png?raw=true" />
 
 <br />
 <br />
