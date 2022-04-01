@@ -21,7 +21,7 @@
 <br />
 
 ## Certificates and Awards:
-[<a href="#"> <img align="left" alt="credly.com" width="64px" src="https://github.com/ACKibler/ACKibler/blob/main/Credly.png?raw=true" />][credly]
+[<img align="left" alt="credly.com" width="64px" src="https://github.com/ACKibler/ACKibler/blob/main/Credly.png?raw=true" />][credly]
 
 <br />
 <br />
