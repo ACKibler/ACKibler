@@ -10,7 +10,7 @@
 ## Connect with me:
 [<img align="left" alt="linkedin.com" width="45px" src="https://github.com/ACKibler/ACKibler/blob/main/Linkedin.png?raw=true" />][linkedin]
 <br />
-<br />
+
 
 ## Languages and Tools:
 <a href="#"> <img align="left" alt="github.com" width="69px" src="https://github.com/ACKibler/ACKibler/blob/main/SQL.png?raw=true" /> </a>
@@ -18,7 +18,7 @@
 <a href="#"> <img align="left" alt="github.com" width="48px" src="https://github.com/ACKibler/ACKibler/blob/main/R.png?raw=true" /> </a>
 <a href="#"> <img align="left" alt="github.com" width="42px" src="https://github.com/ACKibler/ACKibler/blob/main/suite.png?raw=true" /> </a>
 <a href="#"> <img align="left" alt="github.com" width="40px" src="https://github.com/ACKibler/ACKibler/blob/main/github.png?raw=true" /> </a>
-<a href="#"> <img align="left" alt="github.com" width="46px" src="https://github.com/ACKibler/ACKibler/blob/main/PowerBI.png?raw=true" /> </a>
+<a href="#"> <img align="left" alt="github.com" width="44px" src="https://github.com/ACKibler/ACKibler/blob/main/PowerBI.png?raw=true" /> </a>
 <br />
 
 ## Certificates and Awards:
