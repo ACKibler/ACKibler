@@ -1,4 +1,4 @@
-# Hi there, I'm Ashton - aka Ashtonio 
+# Hi there, I'm Ashton
 
 ## I'm an Analyst
 - 🔭 I'm currently improving my skills
