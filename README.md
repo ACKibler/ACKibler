@@ -15,7 +15,7 @@
 ## Languages and Tools:
 <a href="#"> <img align="left" alt="github.com" width="69px" src="https://github.com/ACKibler/ACKibler/blob/main/SQL.png?raw=true" /> </a>
 <a href="#"> <img align="left" alt="github.com" width="132px" src="https://github.com/ACKibler/ACKibler/blob/main/tableau.png?raw=true" /> </a>
-<a href="#"> <img align="left" alt="github.com" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> </a>
+<a href="#"> <img align="left" alt="github.com" width="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> </a>
 <a href="#"> <img align="left" alt="github.com" width="48px" src="https://github.com/ACKibler/ACKibler/blob/main/R.png?raw=true" /> </a>
 <a href="#"> <img align="left" alt="github.com" width="42px" src="https://github.com/ACKibler/ACKibler/blob/main/suite.png?raw=true" /> </a>
 <a href="#"> <img align="left" alt="github.com" width="40px" src="https://github.com/ACKibler/ACKibler/blob/main/github.png?raw=true" /> </a>
