@@ -2,7 +2,7 @@
 
 ## I'm an Analyst
 - 🔭 I'm currently improving my skills
-- 🌱 I'm currently learning python
+- 🌱 I'm currently learning Python for Data Science
 - 👯‍♂️ I'm looking to collaborate with other data analysts
 - 🥅 2022 Goals: Expand my portfolio to something I'm proud to share
 - 🏋️ Fun Fact: I love to lift weights
