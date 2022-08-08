@@ -1,6 +1,6 @@
 # Hi there, I'm Ashton
 
-## I'm an Analyst
+## I'm a Data Analyst
 - 🔭 I'm currently improving my skills
 - 🌱 I'm currently learning Python for Data Science
 - 👯‍♂️ I'm looking to collaborate with other data analysts
