@@ -4,7 +4,7 @@
 - 🔭 I'm currently improving my skills
 - 🌱 I'm currently learning Python for Data Science
 - 👯‍♂️ I'm looking to collaborate with other data analysts
-- 🥅 2022 Goals: Expand my portfolio to something I'm proud to share
+- 🥅 2024 Goals: Expand my portfolio to something I'm proud to share
 - 🏋️ Fun Fact: I love to lift weights
 
 ## Connect with me:
@@ -24,7 +24,7 @@
 
 ## Certificates and Awards:
 [<img align="left" alt="credly.com" width="64px" src="https://github.com/ACKibler/ACKibler/blob/main/Credly.png?raw=true" />][credly]
-[<img align="left" alt="credly.com" width="64px" src="https://github.com/ACKibler/ACKibler/blob/main/DataCamp-582262633.png?raw=true" />][datacamp]
+[<img align="left" alt="credly.com" width="60px" src="https://github.com/ACKibler/ACKibler/blob/main/DataCamp-582262633.png?raw=true" />][datacamp]
 
 <br />
 <br />
