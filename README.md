@@ -24,7 +24,7 @@
 
 ## Certificates and Awards:
 [<img align="left" alt="credly.com" width="64px" src="https://github.com/ACKibler/ACKibler/blob/main/Credly.png?raw=true" />][credly]
-[<img align="left" alt="credly.com" width="64px" src="" />][datacamp]
+[<img align="left" alt="credly.com" width="64px" src="https://github.com/ACKibler/ACKibler/blob/main/DataCamp-582262633.png?raw=true" />][datacamp]
 
 <br />
 <br />
