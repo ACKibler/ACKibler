@@ -24,6 +24,7 @@
 
 ## Certificates and Awards:
 [<img align="left" alt="credly.com" width="64px" src="https://github.com/ACKibler/ACKibler/blob/main/Credly.png?raw=true" />][credly]
+[<img align="left" alt="credly.com" width="64px" src="" />][datacamp]
 
 <br />
 <br />
@@ -33,3 +34,4 @@
 
 [linkedin]: https://www.linkedin.com/in/ashtonkibler/
 [credly]: https://www.credly.com/badges/f9c5c967-e408-48b9-9fdb-71ded6cdebbf/public_url
+[datacamp]: https://www.datacamp.com/portfolio/ashtonckibler?view=true
